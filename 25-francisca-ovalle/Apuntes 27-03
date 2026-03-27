@@ -55,6 +55,12 @@ Ej: stroke(245,0,0)
 strokeWeight:
 strokeWeight(25);
 
+angleMode(DEGREES);
+arc(
+
+strokeCap: sintaxis: strokeCap(SQUARE);
+ROUND, SQUARE, PROJECT
+
 Fill(valores en RGB)
 
 
